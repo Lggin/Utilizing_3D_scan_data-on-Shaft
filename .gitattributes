@@ -1,0 +1,2 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+C:/Users/id000/Downloads/hproject/hproject2/승강로벽면최적화function.ipynb filter=lfs diff=lfs merge=lfs -text
